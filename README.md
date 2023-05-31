@@ -96,3 +96,18 @@ List
 |deque| 0,67|
 |list| 0,34|
 
+## V1.1
+- Iš struktūros pereinama į klasę.
+
+|skirstymo greičio lyginimas|||
+|-------------------------|-----|-----|
+|dydis|100000|1000000|
+|struktūra strategija 2|0,26|2,7|
+|Klasė|0,56|6,5|
+
+## V1.2
+- Padaryta "Rule of Five" (copy constructor, move constructor, copy assignment, move assignment).
+## V1.5
+- Sukurta bazinė klasė žmogus iš  kurios išvesta klasė studentas.
+
+## Vector klasė
