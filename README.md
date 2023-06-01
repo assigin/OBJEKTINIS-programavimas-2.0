@@ -99,7 +99,7 @@ List
 ## V1.1
 - Iš struktūros pereinama į klasę.
 
-|skirstymo greičio lyginimas|||||||||||||
+|vector konteinerio skirstymo greičio lyginimas|||||||||||||
 |-------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |dydis|100000|100000|100000|100000|100000|100000|1000000|1000000|100000|100000|1000000|1000000|
 |Tipas|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|
@@ -108,7 +108,9 @@ List
 |Rūšiavimas(s)|0,08|0,028|0,08|0,027|0,078|0,026|0,9|0,28|1,5|0,27|1,45|0,27|
 |Skirstymas(s)|0,038|0,018|0,036|0,017|0,037|0,018|0,32|0,13|0,55|0,14|0,52|0,13|
 |Visas atspausdinimas|1,2|1,4|1,08|1,2|1,1|1,3|13,5|6,6|13,6|6,3|12|6,4|
-|Visas laikas|1,81|1,886|1,696||||||
+|Visas laikas|1,81|1,886|1,696|1,704|1,715|1,794|8,96|18,1|8,66|16,33|8,75|
+
+-Įdomus pastebėjimas, jog duomenys buvo paimti paleidžiant kodą 'Visual Studio Code' aplinkoje, o kitų lentelių duomenys buvo paimti paleidžiant kodą 'Visual Studio' aplinkoje. Galime pastebėti, nors ir versijos skirtingos, kodo greitis yra žymiai didesnis. 
 ## V1.2
 - Padaryta "Rule of Five" (copy constructor, move constructor, copy assignment, move assignment).
 ## V1.5
