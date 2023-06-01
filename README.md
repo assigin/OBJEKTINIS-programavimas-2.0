@@ -101,13 +101,27 @@ List
 
 |skirstymo greičio lyginimas|||
 |-------------------------|-----|-----|
-|dydis|100000|1000000|
-|struktūra strategija 2|0,26|2,7|
-|Klasė|0,56|6,5|
-
+|dydis|100000|100000|1000000|1000000|100000|100000|1000000|1000000|100000|100000|1000000|1000000|
+|Tipas|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|Klasė|Struktūra|
+|Flag'as|-O1|-O1|-O1|-O1|-02|-02|-02|-02|-03|-03|-03|-03|
+|Nuskaitymas(s)|||2,5|2,45|2,36|
+|Rūšiavimas(s)|||0,9|1,5|1,45
+|Skirstymas(s)|||0,32|0,55|0,52
+|Visas atspausdinimas|||13,5|13,6|12|
+|Visas laikas|
 ## V1.2
 - Padaryta "Rule of Five" (copy constructor, move constructor, copy assignment, move assignment).
 ## V1.5
 - Sukurta bazinė klasė žmogus iš  kurios išvesta klasė studentas.
 
 ## Vector klasė
+100000class
+0,5 0,5 0,5
+0,08 0,08 0,078
+0,038 0,036 0,037
+1,2 1,08 1,1
+100000struk
+0,44 0,46 0,45
+0,028 0,027 0,026
+0,018 0,017 0,018
+1,4 1,2 1,3
