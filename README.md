@@ -108,21 +108,9 @@ List
 |Rūšiavimas(s)|0,08|0,028|0,08|0,027|0,078|0,026||0,9|0,28|1,5|0,27|1,45|0,27|
 |Skirstymas(s)|0,038|0,018|0,036|0,017|0,037|0,018||0,32|0,13|0,55|0,14|0,52|0,13|
 |Visas atspausdinimas|1,2|1,4|1,08|1,2|1,1|1,3||13,5|6,6|13,6|6,3|12|6,4|
-|Visas laikas|||||||||
+|Visas laikas|1,81|1,886|1,696||||||
 ## V1.2
 - Padaryta "Rule of Five" (copy constructor, move constructor, copy assignment, move assignment).
 ## V1.5
 - Sukurta bazinė klasė žmogus iš  kurios išvesta klasė studentas.
 
-## Vector klasė
-1000000class
-|2,5|2,45|2,36|
-|0,9|1,5|1,45
-|0,32|0,55|0,52
-|13,5|13,6|12|
-
-str
-|1,95|1,95|
-|0,28|0,27|
-|0,13|0,14|
-|6,6|6,3|
